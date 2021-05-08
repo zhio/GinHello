@@ -7,10 +7,10 @@ import (
 	"github.com/astaxie/beego/validation"
 	"github.com/gin-gonic/gin"
 	"github.com/unknwon/com"
-	"github.com/zhio/go-application/models"
-	"github.com/zhio/go-application/pkg/e"
-	"github.com/zhio/go-application/pkg/setting"
-	"github.com/zhio/go-application/pkg/util"
+	"github.com/zhio/api.mall.cn/models"
+	"github.com/zhio/api.mall.cn/pkg/e"
+	"github.com/zhio/api.mall.cn/pkg/setting"
+	"github.com/zhio/api.mall.cn/pkg/util"
 )
 
 //获取单个文章
