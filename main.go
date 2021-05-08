@@ -2,10 +2,9 @@ package main
 
 import (
 	"fmt"
-	"net/http"
-
-	"github.com/zhio/go-application/routers"
 	"github.com/zhio/go-application/pkg/setting"
+	"github.com/zhio/go-application/routers"
+	"net/http"
 )
 
 func main() {
